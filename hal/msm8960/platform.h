@@ -130,4 +130,6 @@ enum {
 
 #define PLATFORM_INFO_XML_PATH          "/system/etc/audio_platform_info.xml"
 #define PLATFORM_INFO_XML_BASE_STRING   "/system/etc/audio_platform_info"
+
+#define HFP_ASM_RX_TX 24
 #endif // QCOM_AUDIO_PLATFORM_H
